@@ -26,3 +26,24 @@ git remote add origin git@github.com:marcoscmatos/demo-int2.git  -> via SSH / ai
 git remote add origin https://github.com/marcoscmatos/demo-int2.git -> https
 
 git remote -v -> mostra os repositorios conectados remotamente
+
+git branch -> mostra os branches que estão ativos
+
+
+###Criando novo branch
+
+git checkout -b feature-readme-instructions
+
+Resultado:
+C:\Users\marco\Documents\GitHub\demo-int2>git branch
+* featura-readme-instructions   -> com estrela é que está no branch
+  master      
+
+
+git checkout ~nome~ -> muda para o branch ~nome~
+
+##vamos ver se salva
+	
+
+
+
