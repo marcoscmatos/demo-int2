@@ -44,6 +44,22 @@ git checkout ~nome~ -> muda para o branch ~nome~
 
 ##vamos ver se salva
 	
+- ok, salvou. Dessa vez fiz por pull request no site mesmo.
+
+ao mudar para o branch master ( git checkout master), necessário fazer o comando:
+
+
+git pull origin master 
+
+assim ele puxa já as modificações
+
+git branch -d featura-readme-instructions
+
+Deleted branch featura-readme-instructions (was 344bbce)
+
+Deletou o branch não utilizado.
+
+Vou começar a fazer um por dia, para cada trabalho
 
 
 
